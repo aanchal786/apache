@@ -1,9 +1,9 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
   "Parameters": {
-    "SubnetAz0": { "Type": "String" },
-    "SubnetAz1": { "Type": "String" },
-    "VpcNetBlock": { "Type": "String" }
+    "SubnetAz0": { "Type": "abc" },
+    "SubnetAz1": { "Type": "def" },
+    "VpcNetBlock": { "Type": "hij" }
   },
   "Resources": {
     "Vpc": {
